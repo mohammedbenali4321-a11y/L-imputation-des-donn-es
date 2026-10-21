@@ -6,12 +6,12 @@ Ce projet traite du traitement et de l'imputation des données manquantes dans u
 
 ## 🗺️ Roadmap du Projet
 
-- [x] **Chargement des données** : Importation des fichiers CSV (`batiment.csv`, `revenu_annuel.csv`).
+- [x] **Chargement des données** : Importation de fichier CSV (`revenu_annuel.csv`).
 - [x] **Analyse exploratoire (EDA)** : Identification des valeurs manquantes et analyse des distributions.
 - [x] **Imputation des données** : Application des techniques de traitement des valeurs manquantes (`revenu_annuel.ipynb`).
 - [ ] **Validation des résultats** : Vérification de la cohérence des données imputées.
 - [ ] **Documentation et synthèses** : Finalisation du rapport d'analyse.
-- [ ] **Enregestrement de data** : Enregistré de donne traiter (methode de l'imputation) dans fichier csv
+- [ ] **Enregistrement de data** : Enregistré de donne traiter (methode de l'imputation) dans fichier CSV (`batiment.csv`)
 
 ---
 
