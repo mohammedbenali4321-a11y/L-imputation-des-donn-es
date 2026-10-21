@@ -18,8 +18,8 @@ Ce projet traite du traitement et de l'imputation des données manquantes dans u
 ## 📁 Structure du Dépôt
 
 * `revenu_annuel.ipynb` : Notebook Jupyter contenant le code de prétraitement et d'imputation.
-* `batiment.csv` : Jeu de données des bâtiments.
-* `revenu_annuel.csv` : Jeu de données des revenus.
+* `batiment.csv` :les données traiter.
+* `revenu_annuel.csv` : Jeu de données des batiments.
 
 ---
 
