@@ -1,10 +1,10 @@
-# 📊 L'imputation des données (Imputation des revenus annuels)
+#  L'imputation des données (Imputation des revenus annuels)
 
 Ce projet traite du traitement et de l'imputation des données manquantes dans un jeu de données de revenus annuels.
 
 ---
 
-## 🗺️ Roadmap du Projet
+##  Roadmap du Projet
 
 - [x] **Chargement des données** : Importation de fichier CSV (`revenu_annuel.csv`).
 - [x] **Analyse exploratoire (EDA)** : Identification des valeurs manquantes et analyse des distributions.
