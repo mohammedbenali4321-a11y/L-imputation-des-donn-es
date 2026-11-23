@@ -23,7 +23,7 @@ Ce projet traite du traitement et de l'imputation des données manquantes dans u
 
 ---
 
-## 🔗 Contact & Réseaux
+##  Contact & Réseaux
 
 * **LinkedIn** : [Mohamed BEN ALI] (https://www.linkedin.com/in/ mohamed-ben-ali-m)
 * **roadmap** : [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
